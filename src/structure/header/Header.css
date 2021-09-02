@@ -1,5 +1,5 @@
 .header {
-    background: #3359EC;
+    background: black;
     color: #ffffff;
     padding: 20px;
 }
@@ -7,10 +7,12 @@
 .header {
     align-items: center;
     display: flex;
-    font-size: 28px;
+    font-size: 24px;
+    padding: 10px;
 }
 
 .header a {
-    color: #ffffff;
+    color: chartreuse;
     margin: 10px;
+    padding: 10px;
 }

@@ -12,7 +12,11 @@
 }
 
 .header a {
-    color: chartreuse;
+    color: #10aec5;
     margin: 10px;
     padding: 10px;
+}
+
+.header a:hover{
+    color: chartreuse;
 }

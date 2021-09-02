@@ -76,7 +76,7 @@ export function Create(props) {
                 <input
                     type="submit"
                     value="Adicionar"
-                    className="button button--green button--full"
+                    className="button button--blue button--full"
                 />
             </form>
         </div>
